@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Thial Moore, aspiring Web Developer and eventual Software Engineer, looking to eventually be able to make anything my mind can think of in the future.
+Looking to Learn Javascript, Python, SQL, Node, React and more.
+
 <!--
 **tkmoo00/tkmoo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
